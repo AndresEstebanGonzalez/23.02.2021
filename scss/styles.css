@@ -23,7 +23,7 @@
 .navbar .navbar--left {
   width: 1rem;
   height: 6.5vh;
-  font-size: 2.8vh;
+  font-size: 15px;
   margin-left: 1rem;
 }
 
@@ -53,12 +53,12 @@
 }
 
 .navbar .navbar--center .arrows .material-icons {
-  font-size: 4.2vh;
+  font-size: 20px;
 }
 
 .navbar .navbar--center i.far.fa-clock {
   line-height: 6.5vh;
-  font-size: 4.2vh;
+  font-size: 20px;
 }
 
 .navbar .navbar--center .searchbar {
@@ -70,8 +70,7 @@
   -ms-flex-item-align: center;
       -ms-grid-row-align: center;
       align-self: center;
-  border-width: 1px;
-  border-color: #fff;
+  border: 1px solid #fff;
   border-radius: 4px;
   font-size: 12px;
   font-weight: 600;
@@ -79,7 +78,7 @@
 
 .navbar .navbar--center i.far.fa-question-circle {
   line-height: 6.5vh;
-  font-size: 4.2vh;
+  font-size: 20px;
 }
 
 .navbar .navbar--right {
@@ -95,7 +94,7 @@
           align-items: center;
   -webkit-transform: translateX(-2rem);
           transform: translateX(-2rem);
-  font-size: 3vh;
+  font-size: 14px;
 }
 
 * {
